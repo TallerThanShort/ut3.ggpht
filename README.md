@@ -5,6 +5,8 @@ What's here?
 
 [TallerThanShort](https://github.com/TallerThanShort)'s [Bottom.gg](https://tallerthanshort.github.io/bottom.gg) Profiles and Banners
 
+[Common-Codes](https://github.com/Common-Codes)' [Crispy](https://crispychat.tech) and [Crispy-Nightly](https://nightly.crispychat.tech/) guild icons, user icons and banners
+
 # Bottom.gg
 So, you just came across this repo/website. gg. Y'know what? It doesn't matter.
 
