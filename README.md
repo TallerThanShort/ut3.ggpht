@@ -1,13 +1,15 @@
 # TallerThanShort's CDN
-What's here?
+**What's here?**
 
-[CKStudios2018](https://github.com/CKStudios2018)'s [OpenSource-uTube](https://ckstudios2018.github.io/OpenSource-uTube/) Profiles and Banners
+[CKStudios2018](https://github.com/CKStudios2018)'s [OpenSource-uTube](https://ckstudios2018.github.io/OpenSource-uTube/) Profiles, Banners and Thumbnails
 
-[TallerThanShort](https://github.com/TallerThanShort)'s [Bottom.gg](https://tallerthanshort.github.io/bottom.gg) Profiles and Banners
+**What else is here?**
 
-[Common-Codes](https://github.com/Common-Codes)' [Crispy](https://crispychat.tech) and [Crispy-Nightly](https://nightly.crispychat.tech/) guild icons, user icons and banners
+[Bottom](https://TallerThanShort.github.io/bottom.gg)'s Default Images
 
-# Bottom.gg
+[Crispy](https://crispychat.tech) and [Crispy-Nightly](https://nightly.crispychat.tech/)'s guild icons, user icons and banners
+
+# Bottom
 So, you just came across this repo/website. gg. Y'know what? It doesn't matter.
 
 # uTube
