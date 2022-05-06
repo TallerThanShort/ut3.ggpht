@@ -1,4 +1,4 @@
-# TallerThanShort's CDN
+# The 3rd uTube (ut3) CDN
 **What's here?**
 
 [CKStudios2018](https://github.com/CKStudios2018)'s [OpenSource-uTube](https://ckstudios2018.github.io/OpenSource-uTube/) Profiles, Banners and Thumbnails
