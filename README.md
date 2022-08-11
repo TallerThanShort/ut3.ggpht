@@ -10,9 +10,6 @@
 - [Bottom](https://TallerThanShort.github.io/bottombots)'s Default Images (basically the site's logo is here)
 - [Crispy](https://crispychat.tech) and [Crispy-Nightly](https://nightly.crispychat.tech/)'s Default Images (basically the site's logo is here)
 
-# Bottom
-So, you just came across this repo/website. gg. Y'know what? It doesn't matter.
-
 # uTube
 ## **If you are a uTube Channel Holder:**
 
