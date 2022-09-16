@@ -2,8 +2,8 @@
 **What's here?**
 
 - [TallerThanShort](https://github.com/TallerThanShort)'s Image Host
-- [CKStudios2018](https://github.com/CKStudios2018)'s [OpenSource-uTube](https://ckstudios2018.github.io/OpenSource-uTube/) Profiles, Banners and Thumbnails
-- [uTube](https://common-codes.github.io/uTube)'s Logo is also stored here
+- [CKStudios2018](https://github.com/CKStudios2018)'s [OpenSource-uTube](https://ckstudios2018.github.io/OpenSource-uTube/) Profiles, Default Banners and Thumbnails
+- [uTube](https://common-codes.github.io/uTube)'s Logo, Default Profile Images, Default Banners and Predefined Thumbnails are also stored here
 
 **What else is here?**
 
@@ -11,7 +11,7 @@
 - [Crispy](https://crispychat.tech) and [Crispy-Nightly](https://nightly.crispychat.tech/)'s Default Images (basically the site's logo is here)
 
 # uTube
-## **If you are a uTube Channel Holder:**
+## **If you are a Verified uTube Channel Holder:**
 
 You can update your pfp on [OpenSource-uTube](https://common-codes.github.io/uTube/) by changing your corresponding pfp in `/icons`. **Make sure the new image title and format match the old one.**
 
